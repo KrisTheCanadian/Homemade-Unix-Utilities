@@ -292,3 +292,5 @@ C library, but at some point, you've just got to **read documentation** to
 learn what is available. Why not now, when you are young? Or, if you are old,
 why not now, before it's ... ahem ... too late?
 
+## Disclaimer
+This Read-Me was created by Wisconsin Professor Remzi Arpacidusseau. [Here is the original Sourcecode for this Assignment](https://github.com/remzi-arpacidusseau/ostep-projects/blob/master/initial-utilities/README.md)
